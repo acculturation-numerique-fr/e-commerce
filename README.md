@@ -36,27 +36,8 @@ DRYVIA révolutionne le marché des équipements de fitness avec la première **
 
 Tous les prompts, la stratégie et la documentation sont disponibles dans le dossier [**docs**](/docs).
 
-## Coeur Technique
-
-| Couche | Implémentation |
-|---|---|
-| **Philosophie** | ![AI-Powered](https://img.shields.io/badge/Philosophy-AI--Powered-6366f1?style=flat-square) |
-| **Frontend** | ![Next.js 14](https://img.shields.io/badge/Frontend-Next.js_14-000000?style=flat-square) ![Tailwind CSS](https://img.shields.io/badge/Style-Tailwind_CSS-38bdf8?style=flat-square) ![Shadcn/UI](https://img.shields.io/badge/Components-Shadcn/_UI-000000?style=flat-square) |
-| **Backend** | ![Express](https://img.shields.io/badge/Backend-Express-000000?style=flat-square) ![TypeScript](https://img.shields.io/badge/Language-TypeScript-3178c6?style=flat-square) |
-| **Orchestration** | ![Next.js](https://img.shields.io/badge/Build-Next.js-000000?style=flat-square) ![Vercel](https://img.shields.io/badge/Deployment-Vercel-000000?style=flat-square) |
-
-#### Cycle de vie du projet : Flux de travail du tableau de bord orchestré par l'IA
-```mermaid
-graph LR
-    A[Strategy & Scope] --> B[Graphic Assets]
-    B --> C[Onboarding]
-    C --> D[Context Engineering]
-    D --> E[Vibecoding]
-    E --> F[Deployment]
-```
-
 ### Le Résultat Final
-La mission : Transformer une vision stratégique en un tableau de bord Ligue 1 fonctionnel de qualité industrielle.
+La mission : Transformer une vision stratégique en une plateforme E-Commerce fonctionnelle de qualité industrielle.
 
 <div align="center">
   <img src="docs/V.%20Vibecoding/final-result.gif" alt="Final DRYVIA Landing Page" width="100%" />
