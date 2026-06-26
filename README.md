@@ -1,42 +1,51 @@
 <!-- markdownlint-disable MD033 -->
-<div align="center">
+<p align="center">
   <img src="frontend/public/logo-light.png" alt="DRYVIA Logo" width="450" />
-  <br />
-  <img src="https://img.shields.io/badge/Architecture-Vibe_Coding-6366f1?style=for-the-badge" alt="Architecture Badge" />
-  <img src="https://img.shields.io/badge/Visuals-Eco_Performance-00f2a6?style=for-the-badge" alt="Visuals Badge" />
-  <img src="https://img.shields.io/badge/Stack-Next.js_/_Express-000000?style=for-the-badge" alt="Stack Badge" />
-  <img src="https://img.shields.io/badge/Branding-Premium_Fitness-00f2a6?style=for-the-badge" alt="Branding Badge" />
-</div>
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Architecture-Vibe_Coding-6366f1?style=flat-square" alt="Vibe Coding" />
+  <img src="https://img.shields.io/badge/Visuals-Eco_Performance-00f2a6?style=flat-square" alt="Eco Performance" />
+  <img src="https://img.shields.io/badge/Branding-Premium_Fitness-00f2a6?style=flat-square" alt="Premium Fitness" />
+  <img src="https://img.shields.io/badge/Status-Production-brightgreen?style=flat-square" alt="Status: Production" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white" alt="Next.js" />
+  <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" alt="React" />
+  <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white" alt="Tailwind CSS" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" />
+  <img src="https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white" alt="Express" />
+  <img src="https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white" alt="Vercel" />
+</p>
 <!-- markdownlint-enable MD033 -->
 
-# Master Course: DRYVIA Aesthetic E-Commerce
+Bienvenue dans le **manuel chronologique complet** du projet **DRYVIA**. Ce dépôt est une démonstration pratique de développement e-commerce fullstack moderne orchestré par l'IA (**Antigravity**).
 
-Welcome to the **complete chronological handbook** for the **DRYVIA** project. This repository is a masterclass in modern, fullstack e-commerce development orchestrated by AI (**Antigravity**). 
-
-DRYVIA disrupts the fitness equipment market with the first **indoor anti-sweat sneaker**—engineered specifically for studio training (HIIT, Cross-training, Yoga) to keep your feet, socks, and gym mats perfectly dry.
+DRYVIA révolutionne le marché des équipements de fitness avec la première **basket d'intérieur anti-transpiration** — conçue spécifiquement pour l'entraînement en studio (HIIT, Cross-training, Yoga) afin de garder vos pieds, vos chaussettes et vos tapis de gym parfaitement secs.
 
 ---
 
 > [!IMPORTANT]
-> **MVP Scope Definition**: 
-> - Premium Landing Page with eco-performance storytelling.
-> - High-density Product Shop with technical data visualization.
-> - Secure Cart Management with real-time total calculation.
-> - Optimized Mobile-First navigation for studio athletes.
-> - **Zero** legacy bloat: Pure TypeScript orchestration from Day 1.
+> **Définition du périmètre du MVP (Minimum Viable Product)** : 
+> - Page d'accueil premium avec une narration axée sur l'éco-performance.
+> - Boutique de produits à haute densité avec visualisation des données techniques.
+> - Gestion sécurisée du panier avec calcul du total en temps réel.
+> - Navigation optimisée Mobile-First pour les athlètes en studio.
+> - **Zéro** surcharge de code hérité : architecture en pur TypeScript dès le premier jour.
 
-All prompts, strategy and documentation are available in the [**docs**](/docs) folder.
+Tous les prompts, la stratégie et la documentation sont disponibles dans le dossier [**docs**](/docs).
 
-## Technical Core
+## Coeur Technique
 
-| Layer | Implementation |
+| Couche | Implémentation |
 |---|---|
-| **Philosophy** | ![AI-Powered](https://img.shields.io/badge/Philosophy-AI--Powered-6366f1?style=flat-square) |
+| **Philosophie** | ![AI-Powered](https://img.shields.io/badge/Philosophy-AI--Powered-6366f1?style=flat-square) |
 | **Frontend** | ![Next.js 14](https://img.shields.io/badge/Frontend-Next.js_14-000000?style=flat-square) ![Tailwind CSS](https://img.shields.io/badge/Style-Tailwind_CSS-38bdf8?style=flat-square) ![Shadcn/UI](https://img.shields.io/badge/Components-Shadcn/_UI-000000?style=flat-square) |
 | **Backend** | ![Express](https://img.shields.io/badge/Backend-Express-000000?style=flat-square) ![TypeScript](https://img.shields.io/badge/Language-TypeScript-3178c6?style=flat-square) |
 | **Orchestration** | ![Next.js](https://img.shields.io/badge/Build-Next.js-000000?style=flat-square) ![Vercel](https://img.shields.io/badge/Deployment-Vercel-000000?style=flat-square) |
 
-#### Project Lifecycle: AI-Orchestrated E-Commerce Workflow
+#### Cycle de vie du projet : Flux de travail du tableau de bord orchestré par l'IA
 ```mermaid
 graph LR
     A[Strategy & Scope] --> B[Graphic Assets]
@@ -46,8 +55,8 @@ graph LR
     E --> F[Deployment]
 ```
 
-### The Final Result
-The mission: Transform a strategic vision into a live, industrial-grade E-Commerce platform.
+### Le Résultat Final
+La mission : Transformer une vision stratégique en un tableau de bord Ligue 1 fonctionnel de qualité industrielle.
 
 <div align="center">
   <img src="docs/V.%20Vibecoding/final-result.gif" alt="Final DRYVIA Landing Page" width="100%" />
@@ -55,36 +64,36 @@ The mission: Transform a strategic vision into a live, industrial-grade E-Commer
 
 ---
 
-## I. Strategic Framing
+## I. Cadrage Stratégique
 
-Every project begins with a clear **Intention**. DRYVIA was born from a specific vertical problem: the discomfort and hygiene issues of foot sweating during indoor fitness. We defined a strict "Eco-Performance" scope using our [Strategic Brief](docs/I.%20Strategic%20Framing/Strategy%20and%20Concept/Strategy%20and%20Concept.md).
+Chaque projet commence par une **intention** claire. DRYVIA est né d'un problème vertical spécifique : l'inconfort et les problèmes d'hygiène liés à la transpiration des pieds pendant le fitness en salle. Nous avons défini un périmètre strict d'« Eco-Performance » à l'aide de notre [Brief Stratégique](docs/I.%20Strategic%20Framing/Strategy%20and%20Concept/Strategy%20and%20Concept.md).
 
-### Step 1.1: Product Niche & Solution Strategy
-We identified a gap in the market for high-performance gym footwear that prioritizes moisture management and hygiene. Our strategy focuses on a technical anti-transfer moisture sole combined with breathable, recycled materials.
+### Étape 1.1 : Niche produit & Stratégie de solution
+Nous avons identifié un manque sur le marché des chaussures de sport d'intérieur qui privilégient la gestion de l'humidité et l'hygiène. Notre stratégie se concentre sur une semelle technique anti-transfert d'humidité associée à des matériaux respirants et recyclés.
 
-> **Excerpt from [Concept & Strategy](docs/I.%20Strategic%20Framing/Strategy%20and%20Concept/Strategy%20and%20Concept.md):**
-> - **Niche**: Indoor anti-sweat sports shoes for fitness studios.
-> - **Solution**: Zero-transfer sole + antibacterial anti-odor membrane.
-> - **Objective**: Keep feet, socks, and gym mats perfectly dry.
+> **Extrait de [Concept & Stratégie](docs/I.%20Strategic%20Framing/Strategy%20and%20Concept/Strategy%20and%20Concept.md) :**
+> - **Niche** : Chaussures de sport d'intérieur anti-transpiration pour les studios de fitness.
+> - **Solution** : Semelle zéro-transfert + membrane antibactérienne anti-odeur.
+> - **Objectif** : Garder les pieds, les chaussettes et les tapis de gym parfaitement secs.
 
 <div align="center">
   <img src="docs/I. Strategic Framing/Strategy and Concept/Strategy and Concept.png" alt="Concept & Strategy" width="100%" />
 </div>
 
-### Step 1.2: Crafting the Brand Identity
-Once the strategy was locked, we defined the **DRYVIA** visual DNA—a blend of Nike's aggressive performance and Apple's minimalist precision. The name itself bridges the benefit (*Dry*) and the journey (*Via*).
+### Étape 1.2 : Création de l'identité de marque
+Une fois la stratégie validée, nous avons défini l'ADN visuel de **DRYVIA** — un mélange entre la performance agressive de Nike et la précision minimaliste d'Apple. Le nom lui-même fait le pont entre le bénéfice (*Dry*) et le chemin parcouru (*Via*).
 
-> **Excerpt from [branding.md](docs/IV.%20Context%20Engineering/Contexte/MarkDowns/branding.md):**
-> - **Vibe**: Performance — Hygiene — Eco — Indoor Training.
-> - **Positioning**: "Clean training starts at your feet."
-> - **Tagline**: "Stay Dry. Train Hard."
+> **Extrait de [branding.md](docs/IV.%20Context%20Engineering/Contexte/MarkDowns/branding.md) :**
+> - **Vibe** : Performance — Hygiène — Éco — Entraînement en intérieur.
+> - **Positionnement** : « Le bon entraînement commence par vos pieds. »
+> - **Slogan** : « Restez au sec. Entraînez-vous dur. »
 
 <div align="center">
   <img src="docs/I. Strategic Framing/Brand Identity/Brand Identity.png" alt="Brand Identity" width="100%" />
 </div>
 
-### Step 1.3: Strategic Synthesis Deliverable
-All strategic research—from target persona mapping to competitive positioning—was synthesized into a master visual blueprint to align the technical and creative teams.
+### Étape 1.3 : Synthèse stratégique finale
+Toutes les recherches stratégiques — de la cartographie des profils cibles au positionnement concurrentiel — ont été synthétisées dans un schéma directeur visuel afin d'aligner les équipes techniques et créatives.
 
 <div align="center">
   <img src="docs/I.%20Strategic%20Framing/Livrable.png" alt="Strategic Framing Deliverable" width="100%" />
@@ -92,39 +101,39 @@ All strategic research—from target persona mapping to competitive positioning�
 
 ---
 
-## II. Graphic Collections & AI Orchestration
+## II. Collections Graphiques & Orchestration par l'IA
 
-To avoid a "generic" or "empty" feel, we orchestrated a complete set of branded assets using high-fidelity AI models. Every visual follows the "Eco-Performance" design system, ensuring consistent branding across all product views.
+Pour éviter un effet « générique » ou vide, nous avons orchestré un ensemble complet de ressources de marque à l'aide de modèles d'IA haute fidélité. Chaque visuel respecte le système de design « Eco-Performance », garantissant une identité de marque cohérente sur toutes les vues du produit.
 
-### Step 2.1: The Identity & Branding Board
-We synthesized our core design tokens—Deep Black, Neon Green, and Fresh Blue—into a comprehensive branding board that serves as the "source of truth" for the UI/UX implementation.
+### Étape 2.1 : Tableau d'identité visuelle & Branding
+Nous avons synthétisé nos principaux jetons de design — Noir Profond, Vert Néon et Bleu Frais — dans un tableau de branding complet qui sert de « source de vérité » pour l'intégration de l'interface utilisateur.
 
 <div align="center">
   <img src="docs/II. Graphic Collections/graphic-collections.png" alt="Branding Overview" width="100%" />
 </div>
 
-### Step 2.2: AI Multimedia Synthesis (Images & Videos)
-Beyond static branding, we leveraged **Kling AI** to orchestrate a multimedia ecosystem. This workflow allows for the clinical generation of both ultra-consistent product photography and high-spec industrial video teasers.
+### Étape 2.2 : Synthèse multimédia par l'IA (Images & Vidéos)
+Au-delà de la charte graphique statique, nous avons exploité **Kling AI** pour concevoir un écosystème multimédia. Ce flux de travail permet de générer de façon clinique des photographies de produits ultra-cohérentes et des vidéos teasers de qualité industrielle.
 
 <div align="center">
   <img src="docs/II.%20Graphic%20Collections/kling-generate.png" alt="AI Multimedia Generation" width="100%" />
 </div>
 
-### Step 2.3: Technical Product Asset Library
-To provide total transparency for the consumer, we generated a full 360° technical library for the flagship DRYVIA sneaker, showcasing everything from the tech-mesh fabric to the anti-moisture sole.
+### Étape 2.3 : Bibliothèque de ressources techniques du produit
+Pour offrir une transparence totale au consommateur, nous avons généré une bibliothèque technique complète à 360° pour la basket phare DRYVIA, montrant tous ses aspects, du tissu tech-mesh à la semelle anti-transpirante.
 
 <div align="center">
 
-| [**Angle Front**](docs/II.%20Graphic%20Collections/Assets/angle-front.png) | [**Side View**](docs/II.%20Graphic%20Collections/Assets/side-view.png) | [**Sole View**](docs/II.%20Graphic%20Collections/Assets/sole-view.png) | [**Back View**](docs/II.%20Graphic%20Collections/Assets/back-view.png) |
+| [**Vue de face**](docs/II.%20Graphic%20Collections/Assets/angle-front.png) | [**Vue latérale**](docs/II.%20Graphic%20Collections/Assets/side-view.png) | [**Semelle**](docs/II.%20Graphic%20Collections/Assets/sole-view.png) | [**Vue arrière**](docs/II.%20Graphic%20Collections/Assets/back-view.png) |
 |---|---|---|---|
 | <img src="docs/II.%20Graphic%20Collections/Assets/angle-front.png" width="200" /> | <img src="docs/II.%20Graphic%20Collections/Assets/side-view.png" width="200" /> | <img src="docs/II.%20Graphic%20Collections/Assets/sole-view.png" width="200" /> | <img src="docs/II.%20Graphic%20Collections/Assets/back-view.png" width="200" /> |
-| [**Hero Banner**](docs/II.%20Graphic%20Collections/Assets/hero-banner.png) | [**Gym Lifestyle**](docs/II.%20Graphic%20Collections/Assets/gym-lifestyle.png) | [**Tech Mesh**](docs/II.%20Graphic%20Collections/Assets/tech-mesh.png) | [**Logo Identity**](docs/II.%20Graphic%20Collections/Assets/logo-dark.png) |
+| [**Bannière Hero**](docs/II.%20Graphic%20Collections/Assets/hero-banner.png) | [**Style de vie Gym**](docs/II.%20Graphic%20Collections/Assets/gym-lifestyle.png) | [**Mesh technique**](docs/II.%20Graphic%20Collections/Assets/tech-mesh.png) | [**Identité Logo**](docs/II.%20Graphic%20Collections/Assets/logo-dark.png) |
 | <img src="docs/II.%20Graphic%20Collections/Assets/hero-banner.png" width="200" /> | <img src="docs/II.%20Graphic%20Collections/Assets/gym-lifestyle.png" width="200" /> | <img src="docs/II.%20Graphic%20Collections/Assets/tech-mesh.png" width="200" /> | <img src="docs/II.%20Graphic%20Collections/Assets/logo-dark.png" width="200" /> |
 
 </div>
 
-### Step 2.4: Design Synthesis Deliverable
-The creative phase concluded with a final synthesis image, rendering the product in its high-end performance context, ready for integration into the Next.js frontend.
+### Étape 2.4 : Rendu final du design
+La phase créative s'est achevée sur une image de synthèse finale, mettant en valeur le produit dans son contexte de haute performance, prête à être intégrée dans le frontend Next.js.
 
 <div align="center">
   <img src="docs/II.%20Graphic%20Collections/Livrable.png" alt="Graphic Synthesis" width="100%" />
@@ -132,86 +141,86 @@ The creative phase concluded with a final synthesis image, rendering the product
 
 ---
 
-## III. Context Engineering: The AI Brain
+## III. Ingénierie de Contexte : Le Cerveau de l'IA
 
-AI-Assisted development is only as strong as its context. We established a "Knowledge Base" of technical specifications that provides full clarity to the coding agent, ensuring every architectural decision aligns with the DRYVIA brand.
+Le développement assisté par IA dépend entièrement de la qualité de son contexte. Nous avons établi une « Base de connaissances » de spécifications techniques qui offre une clarté totale à l'agent de codage, garantissant que chaque décision d'architecture s'aligne sur la marque DRYVIA.
 
-### Step 3.1: AI Orchestration Prompt
-We used **Context Engineering** to feed the AI with the precise DNA of the project. By defining clear roles and constraints, we transformed the strategic vision into industrial-grade technical documentation.
+### Étape 3.1 : Prompt d'orchestration de l'IA
+Nous avons utilisé l'**Ingénierie de Contexte** pour nourrir l'IA avec l'ADN précis du projet. En définissant des rôles et des contraintes clairs, nous avons transformé la vision stratégique en une documentation technique de qualité industrielle.
 
-> **Excerpt from [Orchestration Prompt](docs/IV.%20Context%20Engineering/Contexte/Prompt%20-%20Context%20Engineering.md):**
+> **Extrait de [Prompt d'Orchestration](docs/IV.%20Context%20Engineering/Contexte/Prompt%20-%20Context%20Engineering.md) :**
 > *"Act as a Senior Technical Writer & Project Scaffolding Specialist. Create a set of markdown files that will serve as the single source of truth for the 'DRYVIA' brand. Extract guidelines for branding, design systems, and product specifications. Ensure all content is professional, precise, and instruction-ready for developers."*
 
 <div align="center">
   <img src="docs/IV.%20Context%20Engineering/Contexte/Context%20Engineering.png" alt="Context Engineering Visualization" width="100%" />
 </div>
 
-### Step 3.2: Technical Knowledge Base
-The output of our orchestration is a decentralized knowledge base. These files act as the project's "Source of Truth" for both human developers and AI agents:
+### Étape 3.2 : Base de connaissances techniques
+Le résultat de notre orchestration est une base de connaissances décentralisée. Ces fichiers servent de « source unique de vérité » pour les développeurs humains comme pour les agents d'IA :
 
-- [**Branding DNA**](docs/IV.%20Context%20Engineering/Contexte/MarkDowns/branding.md): Visual & verbal identity rules.
-- [**Design Tokens**](docs/IV.%20Context%20Engineering/Contexte/MarkDowns/design_system.md): Colors, typography, and spacing scales.
-- [**Product Data**](docs/IV.%20Context%20Engineering/Contexte/MarkDowns/product_data.md): Flagship model specifications and mapping.
-- [**Developer Context**](docs/IV.%20Context%20Engineering/Contexte/MarkDowns/context.md): Core architectural intent.
-- [**Project Rules**](docs/IV.%20Context%20Engineering/Contexte/MarkDowns/project_rules.md): Coding standards and workflow logic.
+- [**ADN de la marque**](docs/IV.%20Context%20Engineering/Contexte/MarkDowns/branding.md) : Règles d'identité visuelle et textuelle.
+- [**Jetons de design**](docs/IV.%20Context%20Engineering/Contexte/MarkDowns/design_system.md) : Couleurs, typographie et échelles d'espacement.
+- [**Données du produit**](docs/IV.%20Context%20Engineering/Contexte/MarkDowns/product_data.md) : Spécifications et modélisation du modèle phare.
+- [**Contexte développeur**](docs/IV.%20Context%20Engineering/Contexte/MarkDowns/context.md) : Intentions architecturales fondamentales.
+- [**Règles de projet**](docs/IV.%20Context%20Engineering/Contexte/MarkDowns/project_rules.md) : Normes de codage et logique de flux de travail.
 
 ---
 
-## IV. Development Environment & Tooling
+## IV. Environnement de Développement & Outils
 
-Industrial-grade development requires a robust, AI-native environment. We established a standardized workstation setup to ensure perfect synchronization between the local machine, the cloud repository, and our AI orchestration tools.
+Le développement de qualité industrielle exige un environnement robuste et natif pour l'IA. Nous avons mis en place une configuration de poste de travail standardisée afin d'assurer une synchronisation parfaite entre la machine locale, le dépôt cloud et nos outils d'orchestration de l'IA.
 
-### Step 4.1: Version Control Foundations (Git Download)
-Before writing a single line of code, we accessed the official **Git** portal to acquire the latest version of the industry-standard version control system.
+### Étape 4.1 : Fondations du contrôle de version (Téléchargement de Git)
+Avant d'écrire la moindre ligne de code, nous avons accédé au portail officiel de **Git** pour acquérir la dernière version de ce système standard de contrôle de version.
 
 <div align="center">
   <img src="docs/III.%20Development%20Environment/Github%20et%20Git/git-download-page.png" alt="Git Download Page" width="100%" />
 </div>
 
-### Step 4.2: Industrial Installer Configuration
-We executed the Git installer with optimized settings for industrial development, ensuring that our local command line is perfectly aligned with the DRYVIA project's requirements.
+### Étape 4.2 : Configuration de l'installateur
+Nous avons exécuté l'installateur de Git avec des paramètres optimisés pour le développement industriel, garantissant que notre ligne de commande locale soit parfaitement alignée avec les exigences du projet DRYVIA.
 
 <div align="center">
   <img src="docs/III.%20Development%20Environment/Github%20et%20Git/git-installer-wizard.jpg" alt="Git Installer Wizard" width="100%" />
 </div>
 
-### Step 4.3: Cloud Collaboration Account (GitHub)
-To host the DRYVIA source code and enable AI-orchestrated deployment, we configured a professional **GitHub** account, bridging our local work with the global developer community.
+### Étape 4.3 : Dépôt collaboratif Cloud (GitHub)
+Pour héberger le code source de DRYVIA et permettre des déploiements orchestrés par l'IA, nous avons configuré un compte professionnel **GitHub**, reliant notre travail local à la communauté mondiale des développeurs.
 
 <div align="center">
   <img src="docs/III.%20Development%20Environment/Github%20et%20Git/github-sign-up.png" alt="GitHub Sign Up" width="100%" />
 </div>
 
-### Step 4.6: AI-Native IDE Acquisition (Trae)
-The heart of our workflow is **Trae IDE**—the next-generation, AI-first editor. We downloaded the stable build to enable high-velocity "Vibe Coding" capabilities.
+### Étape 4.6 : Acquisition de l'IDE natif IA (Trae)
+Le cœur de notre flux de travail est l'**IDE Trae** — l'éditeur de nouvelle génération orienté IA. Nous avons téléchargé sa version stable pour exploiter pleinement ses capacités de « Vibe Coding » à haute vitesse.
 
 <div align="center">
   <img src="docs/III.%20Development%20Environment/Trae%20IDE/trae-download-page.png" alt="Trae Download Page" width="100%" />
 </div>
 
-### Step 4.7: Welcome to the Future of Coding
-The Trae welcome screen marks the transition from traditional development to an AI-choreographed workspace, designed for maximum engineering speed.
+### Étape 4.7 : Bienvenue dans le futur du développement
+L'écran d'accueil de Trae marque la transition entre le développement traditionnel et un espace de travail orchestré par l'IA, conçu pour une vitesse d'ingénierie maximale.
 
 <div align="center">
   <img src="docs/III.%20Development%20Environment/Trae%20IDE/trae-welcome-screen.png" alt="Trae Welcome Screen" width="100%" />
 </div>
 
-### Step 4.8: Secure Device Verification
-Security is paramount. We performed a secure device verification to link our Trae instance with our digital identity, ensuring a safe building environment.
+### Étape 4.8 : Authentification sécurisée de l'appareil
+La sécurité est essentielle. Nous avons effectué une vérification sécurisée de l'appareil pour lier notre instance de Trae à notre identité numérique, garantissant un environnement de création sûr.
 
 <div align="center">
   <img src="docs/III.%20Development%20Environment/Trae%20IDE/trae-device-verification.png" alt="Trae Device Verification" width="100%" />
 </div>
 
-### Step 4.9: Remote Repository Synchronization
-We initiated the first clone of the DRYVIA repository directly within Trae, pulling our strategic foundations from the cloud into our local AI cockpit.
+### Étape 4.9 : Synchronisation avec le dépôt distant
+Nous avons initié le premier clonage du dépôt DRYVIA directement dans Trae, important nos fondations stratégiques du cloud vers notre cockpit d'IA local.
 
 <div align="center">
   <img src="docs/III.%20Development%20Environment/Trae%20IDE/trae-clone-repo-input.png" alt="Trae Clone Repo" width="100%" />
 </div>
 
-### Step 4.10: The Builder Interface Activation
-The final step in our environment setup: activating the **Trae Builder** interface, where the strategic context and code arborescence truly come to life.
+### Étape 4.10 : Activation de l'interface Builder
+L'étape finale de la configuration de notre environnement : l'activation de l'interface **Trae Builder**, où le contexte stratégique et l'architecture du code prennent véritablement vie.
 
 <div align="center">
   <img src="docs/III.%20Development%20Environment/Trae%20IDE/trae-builder-interface.png" alt="Trae Builder Interface" width="100%" />
@@ -219,14 +228,14 @@ The final step in our environment setup: activating the **Trae Builder** interfa
 
 ---
 
-## V. Fullstack Architecture & Arborescence
+## V. Architecture Fullstack & Arborescence
 
-The transitions from conceptual design to industrial-grade infrastructure are orchestrated via automated scaffolding. We established a project structure that is "AI-Transparent," providing full clarity to the coding agent during the build phase.
+La transition de la conception conceptuelle vers une infrastructure de qualité industrielle est orchestrée via un échafaudage automatisé. Nous avons établi une structure de projet « IA-Transparente », offrant une clarté totale à l'agent de développement pendant la phase de construction.
 
-### Step 5.1: Automated Scaffolding Execution
-To ensure a standardized and error-free environment, we utilized a custom **Bash Scaffolding Script**. This automation creates the complete decoupled architecture (Frontend, Backend, Docs) in milliseconds.
+### Étape 5.1 : Exécution de l'échafaudage automatisé (Scaffolding)
+Pour garantir un environnement standardisé et sans erreurs, nous avons utilisé un **script d'échafaudage Bash** personnalisé. Cette automatisation crée l'architecture découplée complète (Frontend, Backend, Docs) en quelques millisecondes.
 
-> **Excerpt from [create_structure.sh](create_structure.sh):**
+> **Extrait de [create_structure.sh](create_structure.sh) :**
 > ```bash
 > #!/bin/bash
 > mkdir -p backend frontend docs
@@ -239,38 +248,38 @@ To ensure a standardized and error-free environment, we utilized a custom **Bash
 </div>
 
 ```bash
-# Option A: Linux / macOS / Git Bash
+# Option A : Linux / macOS / Git Bash
 bash create_structure.sh
 
-# Option B: Windows (PowerShell)
+# Option B : Windows (PowerShell)
 PowerShell -ExecutionPolicy Bypass -File create_structure.ps1
 ```
 
-#### Desired Arborescence Schema
-The resulting structure follows a strict separation of concerns, optimized for AI-assisted engineering:
+#### Schéma de l'arborescence souhaitée
+La structure finale suit une séparation stricte des préoccupations, optimisée pour l'ingénierie assistée par l'IA :
 
 ```text
 e-commerce/
-├── backend/            # Express API (TS)
-│   ├── controllers/    # Business Logic
-│   ├── models/         # Data Schemas
-│   └── routes/         # API Endpoints
+├── backend/            # API Express (TS)
+│   ├── controllers/    # Logique métier
+│   ├── models/         # Modèles de données
+│   └── routes/         # Routes d'API
 ├── frontend/           # Next.js 14 (App Router)
-│   ├── src/app/        # Pages & Routing
-│   ├── src/components/ # Atomic UI Elements
-│   └── src/features/   # Product-specific logic
-└── docs/               # Master Knowledge Base
+│   ├── src/app/        # Pages & Routage
+│   ├── src/components/ # Éléments d'interface UI
+│   └── src/features/   # Logique spécifique au produit
+└── docs/               # Base de connaissances principale (Knowledge Base)
 ```
 
-### Step 5.2: Hierarchy Validation & Verification
-Once the skeleton is generated, we perform a deep verification using the `tree` command. This step validates that every directory and configuration file is correctly placed for the build phase.
+### Étape 5.2 : Validation & Vérification de la hiérarchie
+Une fois le squelette généré, nous effectuons une vérification approfondie à l'aide de la commande `tree`. Cette étape confirme que chaque répertoire et fichier de configuration est correctement positionné pour la suite.
 
 <div align="center">
   <img src="docs/IV. Context Engineering/Arborescence/Verify Arborescence.png" alt="Arborescence Verification" width="100%" />
 </div>
 
-### Step 5.3: Architectural Infrastructure Deliverable
-The scaffolding phase concludes with a fully synchronized local environment, serving as the definitive deliverable for our structural engineering phase.
+### Étape 5.3 : Livrable de l'infrastructure architecturale
+La phase d'échafaudage se termine avec un environnement local entièrement synchronisé, constituant le livrable définitif pour notre phase d'ingénierie structurelle.
 
 <div align="center">
   <img src="docs/IV.%20Context%20Engineering/Livrable.png" alt="Architecture Deliverable" width="100%" />
@@ -278,105 +287,105 @@ The scaffolding phase concludes with a fully synchronized local environment, ser
 
 ---
 
-## VI. Industrial Vibe-Coding: The Build Session
+## VI. Vibe-Coding Industriel : La Phase de Développement
 
-The **Vibecoding** phase is where the architecture is filled with industrial-grade logic. Once the environment is synchronized and the structure validated, we move from planning to active building.
+La phase de **Vibecoding** est celle où l'architecture s'enrichit d'une logique métier robuste. Une fois l'environnement configuré et la structure vadidée, nous passons du plan d'action à la programmation active.
 
-> **Strategic Orchestration Prompt (AI Input):**
+> **Prompt d'Orchestration Stratégique (Entrée IA) :**
 > *"Act as a Senior Fullstack Engineer. Implement a decoupled Next.js & Express architecture for the DRYVIA Store. Prioritize the 'Zero-Product Shield' using local fallbacks. The aesthetic must follow the 'Eco-Performance' design system: Deep Black surfaces with Neon Green highlights. Build for performance and athletes."*
 
 ---
 
-### Step 6.1: Industrial Launch Commands
-To ensure all layers (Frontend, Backend, Knowledge Base) are perfectly synchronized during development, we use standardized industrial commands that launch the entire ecosystem concurrently.
+### Étape 6.1 : Commandes de lancement
+Pour s'assurer que toutes les couches (Frontend, Backend, Base de connaissances) sont parfaitement synchronisées en cours de développement, nous utilisons des commandes standardisées pour lancer l'ensemble de l'écosystème simultanément.
 
 <div align="center">
   <img src="docs/V.%20Vibecoding/npm-run-dev.png" alt="Industrial Launch" width="100%" />
 </div>
 
 ```bash
-# Start the entire ecosystem in development mode
-# This launches Next.js and the Express API
+# Lancer l'écosystème complet en mode développement
+# Cela lance Next.js et l'API Express
 npm run dev
 ```
 
-### Step 6.2: Live Vibe-Coding Session
-Armed with the **Vibe Strategy**, we enter a high-velocity building phase. This session transforms technical requirements into a functional product through autonomous UI creation and API integration.
+### Étape 6.2 : Session de Vibe-Coding en direct
+Armés de notre **stratégie de développement**, nous entamons une phase de production rapide. Cette session convertit les exigences techniques en un produit fonctionnel via la création autonome d'interfaces et l'intégration des APIs.
 
 <div align="center">
   <img src="docs/V.%20Vibecoding/live-coding.gif" alt="Live Coding Session" width="100%" />
 </div>
 
-### Step 6.3: Technical Architecture & Hierarchy
-The result of this session is a rock-solid, decoupled monorepo structure. Every module has a clear, isolated responsibility.
+### Étape 6.3 : Architecture technique & Hiérarchie
+Le résultat de cette session est une structure de monorepo découplée très robuste. Chaque module possède une responsabilité claire et isolée.
 
 ---
 
-#### System Graph
+#### Graphe Système
 ```mermaid
 graph TD
-    A[Root: Monorepo] --> B[frontend/]
+    A[Racine : Monorepo] --> B[frontend/]
     A --> C[backend/]
     A --> D[docs/]
     
     B --> B1[Next.js App Router]
     B --> B2[Tailwind & Shadcn]
-    C --> C1[Express API]
-    C --> C2[Mongoose Models]
-    D --> D1[Knowledge Base]
+    C --> C1[API Express]
+    C --> C2[Modèles Mongoose]
+    D --> D1[Base de connaissances]
 ```
 
-#### Final Project Trees
+#### Arborescences Finales du Projet
 
-**Root Structure**
+**Structure Racine**
 ```text
 e-commerce/
-├── backend/            # API Layer (Express/TS)
-├── frontend/           # UI Layer (Next.js 14)
-├── docs/               # Strategy & Documentation
-├── package.json        # Unified Workspace
-└── create_structure.sh # Scaffolding Script
+├── backend/            # Couche API (Express/TS)
+├── frontend/           # Couche UI (Next.js 14)
+├── docs/               # Stratégie & Documentation
+├── package.json        # Workspace unifié (Monorepo)
+└── create_structure.sh # Script d'échafaudage
 ```
 
-**Backend Focus**
+**Structure Backend**
 ```text
 backend/
-├── app.ts              # Express Core
-├── controllers/        # Logical Handlers
-├── models/             # Mongoose Schemas
-└── routes/             # Endpoint Definitions
+├── app.ts              # Coeur Express
+├── controllers/        # Contrôleurs logiques
+├── models/             # Schémas Mongoose
+└── routes/             # Définitions des routes API
 ```
 
-> **Endpoint Sample (`products.routes.ts`):**
+> **Exemple de Route (`products.routes.ts`) :**
 > ```typescript
 > router.get('/', getProducts);
 > router.get('/:slug', getProductBySlug);
 > ```
 
-**Frontend Focus**
+**Structure Frontend**
 ```text
 frontend/src/
-├── app/                # Layouts & App Router
-├── components/         # Atomic UI Design
-├── features/           # Checkout & Cart Logic
-└── providers/          # Global Context Providers
+├── app/                # Layouts & Routage (App Router)
+├── components/         # Éléments de design atomique
+├── features/           # Logique du panier & paiement
+└── providers/          # Fournisseurs de contextes globaux
 ```
 
-> **Home Implementation (`app/page.tsx`):**
+> **Implémentation de l'Accueil (`app/page.tsx`) :**
 > ```tsx
 > export default function Home() {
 >   return (
 >     <section className="relative h-screen flex items-center...">
->       {/* High-Performance Storytelling */}
+>       {/* Récit de marque à haute performance */}
 >     </section>
 >   );
 > }
 > ```
 
-### Step 6.4: Versioning Finalization
-Once the Vibe-Coding session reaches production-ready state, we perform a final synchronization with the cloud, pushing the entire codebase to GitHub.
+### Étape 6.4 : Finalisation de la gestion de version
+Une fois la session de Vibe-Coding en état de livraison pour la production, nous effectuons une synchronisation finale avec le cloud pour pousser l'ensemble de la base de code sur GitHub.
 
-**Commands (first push from local):**
+**Commandes (premier envoi depuis le local) :**
 
 ```bash
 git init
@@ -392,35 +401,35 @@ git push -u origin main
 
 ---
 
-## VII. Production & Cloud Deployment
+## VII. Production & Déploiement Cloud
 
-The transition to production is the ultimate validation of our technical pipeline. We utilize Vercel's orchestration to serve the DRYVIA store globally.
+Le passage en production est la validation ultime de notre flux technique. Nous utilisons l'orchestration de Vercel pour rendre la boutique DRYVIA disponible à l'échelle mondiale.
 
-### Step 7.1: Vercel Project Initialization
-We initiate the deployment process by linking our fresh GitHub repository to Vercel, establishing the production environment and build parameters.
+### Étape 7.1 : Initialisation du projet Vercel
+Nous lançons le processus de déploiement en liant notre dépôt GitHub fraîchement configuré à Vercel, établissant ainsi l'environnement de production et les paramètres de compilation.
 
 <div align="center">
   <img src="docs/V.%20Vibecoding/vercel-deploy.png" alt="Vercel Initialization" width="100%" />
 </div>
 
-### Step 7.2: Successful Build Strategy
-Vercel executes the build process, validating our TypeScript code and generating the optimized production bundle. A successful build is the "green light" for the live site.
+### Étape 7.2 : Validation de la compilation (Build)
+Vercel exécute le processus de compilation, validant notre code TypeScript et générant les fichiers optimisés pour la production. Une compilation réussie donne le feu vert pour la mise en ligne du site.
 
 <div align="center">
   <img src="docs/V.%20Vibecoding/vercel-successful-build.png" alt="Successful Build" width="100%" />
 </div>
 
-### Step 7.3: Production Dashboard Monitoring
-Post-build, the Vercel Dashboard provides a centralized view of the production status, performance metrics, and the live staging URL.
+### Étape 7.3 : Suivi du tableau de bord de production
+Après la compilation, le tableau de bord de Vercel offre une vue centralisée sur l'état de la production, les mesures de performance et l'URL de staging active.
 
 <div align="center">
   <img src="docs/V.%20Vibecoding/vercel-dashboard.png" alt="Vercel Dashboard" width="100%" />
 </div>
 
-### Step 7.4: The Final Industrial Result
-The mission is complete. The **DRYVIA** e-commerce experience is live, delivering a premium, anti-sweat training sneaker shop to athletes worldwide.
+### Étape 7.4 : Le résultat industriel final
+La mission est accomplie. L'expérience e-commerce **DRYVIA** est en ligne, proposant une boutique haut de gamme de baskets d'entraînement anti-transpirantes aux athlètes du monde entier.
 
-**Production Link**: [https://e-commerce-frontend-red-eight.vercel.app/](https://e-commerce-frontend-red-eight.vercel.app/)
+**Lien de production** : [https://e-commerce-frontend-red-eight.vercel.app/](https://e-commerce-frontend-red-eight.vercel.app/)
 
 <div align="center">
   <p align="center">
@@ -432,7 +441,7 @@ The mission is complete. The **DRYVIA** e-commerce experience is live, deliverin
 
 ---
 
-## 🏆 Mission Status: COMPLETED
-**Current State**: Fullstack Ecosystem 100% Deployed. 
+## 🏆 Statut de la Mission : COMPLÉTÉE
+**État actuel** : Écosystème Fullstack Déployé à 100%.
 
-*This repository serves as a blueprint for AI-orchestrated engineering. We have transformed a strategic vision into a live, industrial-grade e-commerce project through precise context engineering and high-velocity implementation.*
+*Ce dépôt sert de modèle pour l'ingénierie orchestrée par l'IA. Nous avons transformé une vision stratégique en un projet e-commerce fonctionnel de qualité industrielle grâce à une ingénierie de contexte précise et une implémentation rapide.*
