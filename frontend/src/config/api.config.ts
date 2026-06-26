@@ -4,4 +4,5 @@ export const API_BASE_URL =
 export const API_ENDPOINTS = {
     PRODUCTS: `${API_BASE_URL}/products`,
     HEALTH: `${API_BASE_URL}/health`,
+    ORDERS: `${API_BASE_URL}/orders`,
 };
